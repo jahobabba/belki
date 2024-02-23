@@ -25,7 +25,7 @@ let state: State = {
     totalSupply: 0n,
 };
 
-// Update functions
+// Update
 
 $update;
 export function initializeSupply(
