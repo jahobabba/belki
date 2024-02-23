@@ -1,7 +1,7 @@
 {
   "canisters": {
     "HotUp": {
-      "main": "src/index.ts",
+      "main": "src/index.t",
       "type": "custom",
       "build": "npx azle HotUp",
       "root": "src",
