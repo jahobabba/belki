@@ -29,8 +29,6 @@ var __assign = (this && this.__assign) || function () {
                 t[p] = s[p];
         }
         return t;
-    };
-    return __assign.apply(this, arguments);
 };
 var __esDecorate = (this && this.__esDecorate) || function (ctor, descriptorIn, decorators, contextIn, initializers, extraInitializers) {
     function accept(f) { if (f !== void 0 && typeof f !== "function") throw new TypeError("Function expected"); return f; }
