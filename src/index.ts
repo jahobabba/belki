@@ -38,8 +38,6 @@ export class Token extends Service {
 let init: boolean;
 // the address of the cannister of type Address
 let cannisterAddress: Address;
-// Icp cannister of type ledger
-let IcpCannister: Ledger;
 
 //create a new variable instance of the token smart contract
 const tokenCanister = new Token(
