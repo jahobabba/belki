@@ -14,7 +14,7 @@
       "build": "npx azle token",
       "root": "src",
       "ts": "src/token.ts",
-      "candid": "src/token.did",
+      "candid": "src/token,did",
       "wasm": ".azle/token/token.wasm.gz"
   }
   }
