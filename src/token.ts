@@ -22,7 +22,7 @@ let state: State = {
     accounts: {},
     name: "",
     ticker: "",
-    totalSupply: 0n,
+    totalSupply: on,
 };
 
 // Update
