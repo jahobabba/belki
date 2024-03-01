@@ -1,4 +1,4 @@
-# ICP - project
+# ICP
 The icp typescript project 
 after creating the token cannistr id, replace the id in line 47 with it
 this is a decentalized remote purhase emarketplace smart contract that allows the buying and selling of products
@@ -6,9 +6,3 @@ this is a decentalized remote purhase emarketplace smart contract that allows th
 then the fund is released into the account of the seller
 buyer also has the ablility to track bought product
 this type of project solves the issue of trust of people trying to transact from a long distance.
-
-Note: this is not yet the final state of this project as there might be some few bug and lapses
-
-had to comment out some functions because of the file limit size on azle, code is quite self explaatory
-
-thank you
