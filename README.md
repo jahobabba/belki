@@ -1,4 +1,4 @@
-# ICP--project
+# ICP - project
 The icp typescript project 
 after creating the token cannistr id, replace the id in line 47 with it
 this is a decentalized remote purhase emarketplace smart contract that allows the buying and selling of products
