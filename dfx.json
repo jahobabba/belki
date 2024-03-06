@@ -11,7 +11,7 @@
     },
     "token": {
       "type": "custom",
-      "build": "npx azle token",
+      "build": "npx aze token",
       "root": "src",
       "ts": "src/token.ts",
       "candid": "src/token.did",
