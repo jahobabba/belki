@@ -7,6 +7,6 @@
     "moduleResolution": "node",
     "allowJs": true,
     "outDir": "BECAUSE_OF_ALLOW_JS",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": false
   }
 }
